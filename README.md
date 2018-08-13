@@ -69,6 +69,3 @@ An embedded application structure based on MSP430(F5529).
 ##### -->2018/7/15 0:18
 	UART 中断成功配置
   
-  
-### 其他
-TI是主打超低功耗的公司，自然会在这里有动作。但是由于时间原因没有考虑这些问题。
