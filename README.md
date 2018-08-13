@@ -5,9 +5,9 @@ An embedded application structure based on MSP430(F5529).
 **If want to use it for advanced development, please follow the existing configuration and add your own app file.**
 **IDE Info: CCS 8.1.0**
 
-### *  ProjectName: 	5529_Basic
-### *  创建者：		李星辰
-### *  最近一次修改：	2018/7/13 22:30
+ *  ProjectName: 	5529_Basic
+ *  创建者：		李星辰
+ *  最近一次修改：	2018/7/13 22:30
 
 ### 嵌入式板架
 适用于  MSP_EXP430F5529LP
