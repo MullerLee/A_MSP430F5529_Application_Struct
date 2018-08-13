@@ -1,4 +1,4 @@
- A_MSP430F5529_Application_Struct
+A_MSP430F5529_Application_Struct
  =================================
 An embedded application structure based on MSP430(F5529).
 --------------------------------------------------------
@@ -13,7 +13,7 @@ An embedded application structure based on MSP430(F5529).
 适用于  MSP_EXP430F5529LP
 
 ### 工程构架
-	      塔式构架
+塔式构架
 
 ### Change Log
 #### 1.垂直构架：
